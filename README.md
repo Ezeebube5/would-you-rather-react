@@ -1,14 +1,7 @@
 # Would You Rather Project
 This project was created as part of [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019).
 
-The primary purpose for developing [Would You Rather](https://would-you-rather-reactnd.herokuapp.com/) was to gain
-exposure to React & Redux, thus core functionality such as
-user authentication and the project backend is mocked.
-As a result you will notice that data
-does not persist when the browser is refreshed.
-
-[Would You Rather Demo](https://would-you-rather-reactnd.herokuapp.com/)
-
+This application is created with React adn Redux to manage state. Users have to login to create questions and also vote on questions other users have created. Authenication is mocked and users can view the leaderboard of votes based on number of questions asked and number of votes.
 
 ### Packages used:
     "react": "^16.4.2",
