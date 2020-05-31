@@ -1,7 +1,7 @@
 # Would You Rather Project
 This project was created as part of [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019).
 
-This application is created with React adn Redux to manage state. Users have to login to create questions and also vote on questions other users have created. Authenication is mocked and users can view the leaderboard of votes based on number of questions asked and number of votes.
+This application is created with React and Redux to manage state. Users have to login to create questions and also vote on questions other users have created. Authenication is mocked and users can view the leaderboard of votes based on number of questions asked and number of votes.
 
 ### Packages used:
     "react": "^16.4.2",
